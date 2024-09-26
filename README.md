@@ -4,4 +4,5 @@ I created a report on "Shark Tank India," analyzing the investment dynamics and 
 Tools I Used:
 Excel: For data organization and cleaning.
 SQL: For data querying and manipulation.
+Python: For data analysis, preprocessing, and handling null values.
 Power BI: For creating the interactive dashboard.
